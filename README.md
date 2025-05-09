@@ -37,7 +37,7 @@
   </section>
 
   <section class="features">
-    <h2>Fitur Unggulan CinemaKu</h2>
+    <h2>Fitur Unggulan CinemaStikom</h2>
     <div class="cards">
       <div class="card">
         <img src="Mcpe mov.avif" alt="Film Terbaru" />
