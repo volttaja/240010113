@@ -59,7 +59,7 @@
 
   <section class="case-study">
     <div class="image">
-      <img src="Qodrat2.webp" alt="Film Unggulan" style="width:920px;height:200px;"/>
+      <img src="Qodrat2 Edit.png" alt="Film Unggulan" style="width:920px;height:200px;"/>
     </div>
     <div class="text">
       <h2>Film Unggulan Minggu Ini</h2>
