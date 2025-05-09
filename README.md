@@ -69,7 +69,7 @@
   </section>
 
   <section class="stats">
-    <h3>Statistik CinemaKu</h3>
+    <h3>Statistik CinemaStikom</h3>
     <div class="stat-grid">
       <div><strong>500+</strong><br>Film Ditayangkan</div>
       <div><strong>100K+</strong><br>Pengguna Aktif</div>
