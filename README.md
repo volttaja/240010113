@@ -63,7 +63,7 @@
     </div>
     <div class="text">
       <h2>Film Unggulan Minggu Ini</h2>
-      <p>Tonton kisah seru dalam "Petualangan Galaxy" hanya di CinemaKu!</p>
+      <p>Tonton kisah seru dalam "Petualangan Galaxy" hanya di CinemaStikom!</p>
       <button class="secondary">Beli Tiket</button>
     </div>
   </section>
